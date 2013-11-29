@@ -183,6 +183,10 @@ Example
 -------
 TODO
 
+TUTORIALS
+---------
+http://www.slideshare.net/greenrobot/eventbus-for-android-15314813
+
 FAQ
 ---
 **Q:** How's EventBus different to Android's BroadcastReceiver/Intent system?<br/>
